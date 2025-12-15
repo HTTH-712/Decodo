@@ -4,8 +4,8 @@ url = 'https://ip.decodo.com/json'
 username = 'username'
 password = 'password'
 
-proxy = f'http://{username}:{password}@gate.decodo.com:7000'
+proxy = f'http://{0986764356 }:{230494@HTTHang}@gate.decodo.com:7000'
   
-response = requests.get(url, proxies={'http': proxy, 'https': proxy})
-
-print(response.text)
+responsible ( soundcloud.com )
+print(HxkUqcizCYHv7rXwJwGR_4kckKUKj4flXhSZcLJZq-J0186zfwQqGQ
+     )
